@@ -9,3 +9,5 @@
 
 
 [![Java CI](https://github.com/CODERS-BAY/aufgabe-8-ci-Koki212/actions/workflows/ubuntu-run-tests.yml/badge.svg)](https://github.com/CODERS-BAY/aufgabe-8-ci-Koki212/actions/workflows/ubuntu-run-tests.yml)
+
+[![Java CI with Windows](https://github.com/CODERS-BAY/aufgabe-8-ci-Koki212/actions/workflows/windows-run-tests.yml/badge.svg)](https://github.com/CODERS-BAY/aufgabe-8-ci-Koki212/actions/workflows/windows-run-tests.yml)
